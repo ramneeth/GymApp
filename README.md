@@ -1,5 +1,3 @@
-# CPSC471FinalProject
-
 # Gym Database App
 
 ## Description
