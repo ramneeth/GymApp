@@ -10,9 +10,8 @@ The **Gym Database App** is a comprehensive application designed to manage and s
 - **Workout Tracking**: Log exercises, track progress, and set fitness goals.
 - **Class Scheduling**: Book and manage fitness classes with real-time availability.
 - **Trainer Assignments**: Assign trainers to specific members and classes.
-- **Payment Processing**: Handle membership fees, track payments, and issue invoices.
 - **Attendance Tracking**: Monitor check-ins and class participation.
-- **Reporting & Analytics**: Generate reports on member activity, revenue, and fitness progress.
+
 
 ## System Overview
 The Gym Database App supports different user roles with specific functionalities:
